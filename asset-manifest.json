@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/blog-pensamento-computacional/static/js/main.09163347.js",
+    "main.js": "/blog-pensamento-computacional/static/js/main.6e7b2034.js",
     "static/js/787.f4b903d7.chunk.js": "/blog-pensamento-computacional/static/js/787.f4b903d7.chunk.js",
     "index.html": "/blog-pensamento-computacional/index.html",
-    "main.09163347.js.map": "/blog-pensamento-computacional/static/js/main.09163347.js.map",
+    "main.6e7b2034.js.map": "/blog-pensamento-computacional/static/js/main.6e7b2034.js.map",
     "787.f4b903d7.chunk.js.map": "/blog-pensamento-computacional/static/js/787.f4b903d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.09163347.js"
+    "static/js/main.6e7b2034.js"
   ]
 }
